@@ -1,0 +1,25 @@
+body {
+  height: 100vh;
+  background-image: url("icantquityou.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100% 100%;
+}
+.grab_div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.centergrab_img {
+  background-image: url("pantsgrab.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 500px 500px;
+  display: flex;
+  width: 500px;
+  height: 500px;
+}
+.centergrab_img:hover {
+  background-image: url("gigachad-chad.gif");
+  background-repeat: no-repeat;
+}
